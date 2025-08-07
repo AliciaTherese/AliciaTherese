@@ -56,6 +56,14 @@
 
 ---
 
+## 📈 My GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliciaTherese&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
